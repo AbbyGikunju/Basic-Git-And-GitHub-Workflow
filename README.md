@@ -3,12 +3,12 @@
 Task 1: Repository Setup
 1. GitHub Repository Creation:
 Logged in to my GitHub account.
-Created a new repository on GitHub named "PLPBasicGitAssignment".
+Created a new repository on GitHub named "Basic-Git-And-GitHub-Workflow".
 Initialized it with a README file.
 
 Task 2: Local Setup
 2. Local Folder Setup:
-Created a new folder on my local machine named "PLPBasicGitAssignment".
+Created a new folder on my local machine named "Basic Git and GitHub Workflow".
 
 Opened a terminal and navigated to the created folder.
 
@@ -25,7 +25,7 @@ git init
 Linked the local repository to the GitHub repository created in Task 1.
 
 code
-git remote add origin https://github.com/AbbyGikunju/PLPBasicGitAssignment.git
+git remote add origin https://github.com/AbbyGikunju/Basic-Git-And-GitHub-Workflow.git
 
 Task 3: Making Changes
 5. Create a File:
