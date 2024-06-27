@@ -9,7 +9,6 @@ Initialized it with a README file.
 Task 2: Local Setup
 2. Local Folder Setup:
 Created a new folder on my local machine named "Basic Git and GitHub Workflow".
-
 Opened a terminal and navigated to the created folder.
 
 cd path/to/Basic Git and Github Workflow
